@@ -1,0 +1,14 @@
+E:\HomeScreen\HomeScreen\obj\Debug\HomeScreen.csproj.AssemblyReference.cache
+E:\HomeScreen\HomeScreen\obj\Debug\MainWindow.g.cs
+E:\HomeScreen\HomeScreen\obj\Debug\App.g.cs
+E:\HomeScreen\HomeScreen\obj\Debug\HomeScreen_MarkupCompile.cache
+E:\HomeScreen\HomeScreen\bin\Debug\HomeScreen.exe.config
+E:\HomeScreen\HomeScreen\bin\Debug\HomeScreen.exe
+E:\HomeScreen\HomeScreen\bin\Debug\HomeScreen.pdb
+E:\HomeScreen\HomeScreen\obj\Debug\MainWindow.baml
+E:\HomeScreen\HomeScreen\obj\Debug\HomeScreen.g.resources
+E:\HomeScreen\HomeScreen\obj\Debug\HomeScreen.Properties.Resources.resources
+E:\HomeScreen\HomeScreen\obj\Debug\HomeScreen.csproj.GenerateResource.cache
+E:\HomeScreen\HomeScreen\obj\Debug\HomeScreen.csproj.CoreCompileInputs.cache
+E:\HomeScreen\HomeScreen\obj\Debug\HomeScreen.exe
+E:\HomeScreen\HomeScreen\obj\Debug\HomeScreen.pdb

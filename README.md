@@ -1,1 +1,1 @@
-# homeScreen-wpf
+#just open the project and run it 
